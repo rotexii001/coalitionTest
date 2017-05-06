@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding="utf-8">
+<product>
+    <productName>Creamy Juice</productName>
+    <productQuantity>12</productQuantity>
+    <productPrice>200</productPrice>
+</product><product>
+    <productName>Pencils</productName>
+    <productQuantity>2000</productQuantity>
+    <productPrice>5</productPrice>
+</product><product>
+    <productName>Kettle</productName>
+    <productQuantity>12</productQuantity>
+    <productPrice>3000</productPrice>
+</product>
+
+<product>
+                        <productName>Books</productName>
+                        <productQuantity>200</productQuantity>
+                        <productPrice>3000</productPrice>
+                    </product>
+
+<product>
+                        <productName>Wrist Watch</productName>
+                        <productQuantity>100</productQuantity>
+                        <productPrice>2000</productPrice>
+                    </product>
+
+<product>
+    <productName>Yummy</productName>
+    <productQuantity>12</productQuantity>
+    <productPrice>1</productPrice>
+</product>
